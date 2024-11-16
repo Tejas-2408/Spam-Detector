@@ -2,6 +2,9 @@
 
 Welcome to the **Spam Detector** project! This repository contains a comprehensive machine learning project that classifies messages as spam or non-spam. The project involves data cleaning, exploratory data analysis (EDA), model training, and deployment.
 
+## Live Deployement of model
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
