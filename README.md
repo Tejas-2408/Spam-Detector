@@ -2,6 +2,10 @@
 
 Welcome to the **Spam Detector** project! This repository contains a comprehensive machine learning project that classifies messages as spam or non-spam. The project involves data cleaning, exploratory data analysis (EDA), model training, and deployment.
 
+## Live Deployement of model
+[Spam Detection](https://spam-detector-4n06.onrender.com)
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
@@ -77,7 +81,7 @@ Run the `main.py` file or Jupyter Notebook to:
 The model achieved an **accuracy of X%**, with precision and recall metrics indicating its reliability for spam classification.
 
 ## Deployment
-The model is live and accessible [here](https://your-render-link.com). This deployment allows users to input text and receive real-time spam detection results.
+The model is live and accessible [here](https://spam-detector-4n06.onrender.com). This deployment allows users to input text and receive real-time spam detection results.
 
 ## Contributing
 Contributions are welcome! Please create an issue or submit a pull request with any suggestions or improvements.
