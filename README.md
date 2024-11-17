@@ -78,7 +78,7 @@ Run the `main.py` file or Jupyter Notebook to:
 - Deploy the web app
 
 ## Results
-The model achieved an **accuracy of X%**, with precision and recall metrics indicating its reliability for spam classification.
+The model achieved an **accuracy of 96%**, with precision and recall metrics indicating its reliability for spam classification.
 
 ## Deployment
 The model is live and accessible [here](https://spam-detector-4n06.onrender.com). This deployment allows users to input text and receive real-time spam detection results.
@@ -86,8 +86,6 @@ The model is live and accessible [here](https://spam-detector-4n06.onrender.com)
 ## Contributing
 Contributions are welcome! Please create an issue or submit a pull request with any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
