@@ -23,12 +23,12 @@ Spam detection is a crucial task in email and message filtering, helping users a
 2. **Exploratory Data Analysis (EDA)**
 3. **Train-Test Split**
 4. **Model Selection and Training**
-5. **Deployment on Render**
+5. **Deployment on Streamlit cloud**
 
 ## Technologies Used
 - **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn)
 - **Jupyter Notebook** for analysis and development
-- **Render** for deployment
+- **Streamlit** for deployment
 
 ## Project Workflow
 ### 1. Data Cleaning
